@@ -1,0 +1,27 @@
+.topNav{
+    margin-bottom: 100px !important;
+}
+
+.AppNav{
+    background-color: rgb(49, 50, 49) !important;
+}
+
+.back-button{
+    border: 1px solid black !important;
+    color:  black !important;
+    background-color: darkgray !important;
+    font-weight: bold !important;
+}
+
+.back-button1 {
+    border: 1px solid black !important;
+    color: black !important;
+    background-color: darkgray !important;
+    font-weight: bold !important;
+    float: right !important;
+}
+
+.toolbar{
+    display: flex !important;
+    justify-content: space-between !important;
+}

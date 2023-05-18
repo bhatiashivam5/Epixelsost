@@ -1,0 +1,12 @@
+.camp-form-value {
+    /* font-family: 'ogg_text_triallight' !important; */
+    font-family: 'ogg_textmedium' !important;
+    font-size: 14px !important;
+    color: #212321 !important;
+    text-transform: capitalize !important;
+    margin-left: 20px !important;
+}
+
+.user-details{
+    display: flex !important;
+}
